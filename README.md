@@ -18,6 +18,8 @@ I developed and executed VBA Macros to automate repetitive tasks in Excel. This 
 ### Task 4: Data Visualization in Excel
 I created various charts and graphs to visually represent data, making it easier to identify patterns and insights. This task focused on using Excel's built-in visualization tools to create meaningful and interactive data presentations.
 
+![image](https://github.com/user-attachments/assets/b12a9b86-fd49-447e-9535-5c322060fa76)
+
 ### Task 5: Data-Driven Storytelling
 In the final task, I combined all the skills learned to tell a compelling data-driven story. This involved synthesizing data insights and presenting them in a clear, concise, and impactful manner, using both visualizations and narrative techniques.
 
